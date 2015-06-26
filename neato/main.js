@@ -2,7 +2,7 @@
  * Created by kcaulfield on 6/25/15.
  */
 $(document).ready(function() {
-    $('#wrap').css('width',$(window).width()-315);
+    $('#wrap').css('width',$(window).width()-317);
     $('#wrap').css('height',$(window).height()-60);
     $('#content').css('width', $('#wrap').width()-450);
 
